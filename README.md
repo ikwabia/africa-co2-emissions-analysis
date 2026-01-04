@@ -47,7 +47,8 @@ Generated a choropleth map to visualize the spatial distribution of emissions
 Africa CO₂ emissions by country (2024)
 Territorial CO₂ emissions from fossil fuels and cement production.
 
-(See attached choropleth map visualization)
+<img width="2384" height="1403" alt="africa_co2_per_capita_latest" src="https://github.com/user-attachments/assets/41805aa7-856d-4793-898b-fae39a2decb1" />
+ 
 
 ## Key Insights
 
