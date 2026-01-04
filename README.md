@@ -48,6 +48,8 @@ Africa CO₂ emissions by country (2024)
 Territorial CO₂ emissions from fossil fuels and cement production.
 
 <img width="2384" height="1403" alt="africa_co2_per_capita_latest" src="https://github.com/user-attachments/assets/41805aa7-856d-4793-898b-fae39a2decb1" />
+<img width="2386" height="1403" alt="africa_co2_choropleth_latest" src="https://github.com/user-attachments/assets/d52ea5af-08b2-46fc-93ed-03d31cdf319c" />
+<img width="1261" height="937" alt="africa_vs_world_co2" src="https://github.com/user-attachments/assets/684bdf4f-c4cd-4c27-8b4a-8f3f9c984b8f" />
  
 
 ## Key Insights
