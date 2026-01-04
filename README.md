@@ -79,4 +79,5 @@ Natural Earth
 
 # Author
 Isaac Kwabia
+
 Climate & Sustainability | Data & Analytics
